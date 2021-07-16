@@ -17,7 +17,8 @@
 
 .dark {
     .post-page {
-        blockquote {
+        blockquote,
+        .docs-footer {
             background-color: rgba(255, 255, 255, 0.05) !important;
             border: solid 2px #fff;
         }
